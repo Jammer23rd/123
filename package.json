@@ -1,0 +1,24 @@
+{
+  "name": "05052022",
+  "version": "1.0.0",
+  "description": "server nodejs basic",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jammer23rd/123.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jammer23rd/123/issues"
+  },
+  "homepage": "https://github.com/Jammer23rd/123#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
